@@ -1,0 +1,2 @@
+# -ama-r-Makinesi
+ewm
