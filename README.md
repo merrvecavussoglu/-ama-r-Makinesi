@@ -1,2 +1,2 @@
-# -ama-r-Makinesi
+# camasir-Makinesi
 ewm
